@@ -6,7 +6,7 @@ Con el tiempo ire actualizando
 
 Herramientas:
 
-React Native
+React Native ( Stack components usados ver documentación )
 
 Documentación
 
