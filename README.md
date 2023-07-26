@@ -21,3 +21,9 @@ https://reactnative.dev/docs/environment-setup
 https://pokeapi.co/
 https://nodejs.org/es
 https://github.com/oblador/react-native-vector-icons
+
+LEER ES IMPORTANTE
+
+implemente archivos reutilizables de mi aplicacion Gradiente son estos 2:
+
+El hook useAnimation y el componente FadeInImage
