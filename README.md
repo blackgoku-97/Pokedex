@@ -11,6 +11,7 @@ Herramientas:
 React Native ( Stack components usados ver documentación )
 React Native Vector Icons
 React Native Image Colors
+Bottom Tabs Navigator
 Axios ( Para hacer peticiones http a una api )
 API usada pokeApi
 nodeJS version 18.17.0
@@ -22,6 +23,7 @@ https://reactnative.dev/docs/environment-setup
 https://pokeapi.co/
 https://nodejs.org/es
 https://github.com/oblador/react-native-vector-icons
+https://github.com/osamaqarem/react-native-image-colors
 
 LEER ES IMPORTANTE
 
