@@ -4,7 +4,7 @@ import { ActivityIndicator, Image, StyleSheet, Text, TouchableOpacity, View } fr
 import { StackScreenProps } from '@react-navigation/stack';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 
-import { RootStackParams } from '../navigator/Navigator';
+import { RootStackParams } from '../navigator/Tab1';
 import Icon from 'react-native-vector-icons/Ionicons';
 import { FadeInImage, PokemonDetails } from '../components';
 import { usePokemon } from '../hooks';
